@@ -9,3 +9,20 @@ description:
 #The per-cart approach isn't organize the process nicely.
 #I hope to use the function well but more better.
 #These days, java code is more my boom than PHP code.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+そういえばerror_pageフォルダ名をerro_pageにしてた気が。。。（エッロページフォルダー）
+まっいっか。
